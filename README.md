@@ -90,10 +90,10 @@ cd fake-job-detection
 ## 🚀 How to Run the Project
 
 ### 2. Install dependencies
-```bash
+
 pip install -r requirements.txt
 3. Run the Flask app
-bash
+
 Copy code
 python app.py
 4. Test the API
