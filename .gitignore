@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+fb/
+Lib/
+Scripts/
+
+# Ignore big model files
+*.dll
+*.so
+*.pkl
+*.h5
+*.csv
+*.zip
+*.exe

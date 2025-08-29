@@ -1,0 +1,13 @@
+real_job =
+ """
+We are looking for a Software Engineer to join our growing team at Google. 
+You will be responsible for designing, developing, and maintaining scalable web applications. 
+Requirements include a Bachelor's degree in Computer Science, 2+ years of experience with Python, JavaScript, and cloud technologies.
+This is a full-time, on-site position in Mountain View, CA with competitive salary and benefits.
+"""
+fake_job = 
+"""
+Earn $5000/week from home! No experience needed. All you have to do is fill out simple surveys and submit your opinion. 
+We’re urgently hiring for a number of positions. Apply now at jobfastmoneyget.com to start immediately.
+Limited positions available!
+"""
